@@ -7,7 +7,7 @@ Build Instructions
 * [Getting the source](#source)
 * [Linux](#linux)
 * [Windows](#windows)
-* [macOS](#macos untested)
+* [macOS](#macos)
 
 # Note
 
